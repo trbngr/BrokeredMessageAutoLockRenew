@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cmartin.brokeredmessage.autolock.renew</id>
+    <version>1.0.0</version>
+    <authors>Chris Martin</authors>
+    <owners>Chris Martin</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/trbngr/BrokeredMessageAutoLockRenew</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Auto renew message locks before they timeout.</description>
+    <copyright>Copyright 2014</copyright>
+    <tags>ServiceBus</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
